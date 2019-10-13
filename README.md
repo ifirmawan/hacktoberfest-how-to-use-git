@@ -11,6 +11,8 @@ Mari berkontribusi membuat tutorial cara menggunakan GIT dengan bahasa Indonesia
 - [Push repository](#push-repository)
 
 ## Instalasi
+- Download dan install git --> https://git-scm.com/downloads 
+- Inisialisasi Folder (CMD) --> $ Git Init 
 
 ## Konfigurasi
 
