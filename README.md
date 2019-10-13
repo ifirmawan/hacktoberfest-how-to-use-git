@@ -11,6 +11,7 @@ Mari berkontribusi membuat tutorial cara menggunakan GIT dengan bahasa Indonesia
 - [Push repository](#push-repository)
 
 ## Instalasi
+- [Cara menginstall git](https://www.petanikode.com/git-install/)
 
 ## Konfigurasi
 
