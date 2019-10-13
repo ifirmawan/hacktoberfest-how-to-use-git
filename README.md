@@ -11,6 +11,7 @@ Mari berkontribusi membuat tutorial cara menggunakan GIT dengan bahasa Indonesia
 - [Push repository](#push-repository)
 
 ## Instalasi
+- https://www.google.com [Search git]
 
 ## Konfigurasi
 
@@ -21,3 +22,4 @@ Mari berkontribusi membuat tutorial cara menggunakan GIT dengan bahasa Indonesia
 ## Membuat branch
 
 ## Push repository
+- [git push -u origin]
