@@ -12,6 +12,15 @@ Mari berkontribusi membuat tutorial cara menggunakan GIT dengan bahasa Indonesia
 
 ## Instalasi
 
+- #### Debian/Ubuntu
+    - Untuk versi stabil terbaru rilis Debian / Ubuntu
+        Buka terminal window, masukkan perintah
+        `sudo apt-get install git`
+    - Untuk Ubuntu, PPA ini menyediakan versi stabil upstream Git terbaru
+        `add-apt-repository ppa:git-core/ppa` 
+        `sudo apt update; apt install git`
+
+
 ## Konfigurasi
 
 ## Membuat repository
