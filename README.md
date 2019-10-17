@@ -22,6 +22,8 @@ Mari berkontribusi membuat tutorial cara menggunakan GIT dengan bahasa Indonesia
 
 
 ## Konfigurasi
+    - Ada beberapa konfigurasi yang harus dupersiapakan sebelum mulai menggunakan Git, seperti name dan email. \
+    - Silahkan lakukan konfigurasi dengan perintah berikut ini. 
 
 ## Membuat repository
 
