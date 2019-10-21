@@ -20,7 +20,7 @@ Mari berkontribusi membuat tutorial cara menggunakan GIT dengan bahasa Indonesia
         `sudo add-apt-repository ppa:git-core/ppa` 
         `sudo apt update; sudo apt install git`
 - #### Windows
-    - Unduh git untuk windows [https://gitforwindows.org/](disini).
+    - Unduh git untuk windows [disini](https://gitforwindows.org/).
     - Setelah selesai unduh, lakukan proses instalasi
     - Pada saat instalasi ada beberapa tahap :
         1. Informasi, Berisikan tentang lisensi aplikasi
