@@ -44,6 +44,14 @@ Mari berkontribusi membuat tutorial cara menggunakan GIT dengan bahasa Indonesia
         Jika muncul adalah versi Git yang anda pasang, selamat kamu berhasil
 
 ## Konfigurasi
+    - Ada beberapa konfigurasi yang harus dupersiapakan sebelum mulai menggunakan Git, seperti name dan email. 
+    - Silahkan lakukan konfigurasi dengan perintah berikut ini. 
+        git config --global user.name "Nama Kamu"
+        git config --global user.email contoh@emailmu.com
+    
+    - Kemudian periksa konfigurasinya dengan perintah:
+        git config --list
+
 
 ## Membuat repository
 
